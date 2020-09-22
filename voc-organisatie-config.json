@@ -1,11 +1,12 @@
 {
   "naam": "Vocabularium Organisatie",
+  "rapport" : "",
   "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
   "publicatiedatum": "2018-07-03",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "voc-organisatie.md",
+  "beschrijving" : "voc-organisatie.md",
   "specificatiedocument": [
     {
       "naam": "Vocabularium Organisatie",

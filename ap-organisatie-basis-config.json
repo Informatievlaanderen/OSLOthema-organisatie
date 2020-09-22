@@ -1,11 +1,12 @@
 {
   "naam": "Applicatieprofiel Organisatie Basis",
+  "rapport" : "",
   "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "ap-organisatie-basis.md",
+  "beschrijving" : "ap-organisatie-basis.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Organisatie Basis",
