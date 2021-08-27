@@ -1,12 +1,12 @@
 {
   "naam": "Applicatieprofiel Organisatie Basis",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/reverseengineeredOnlyForContributions/organisatie-basis.jsonld",
-  "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
-  "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+  "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/reverseengineeredOnlyForContributions/organisatie-basis.jsonld",
+  "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Applicatieprofiel",
-  "beschrijving" : "ap-organisatie-basis.md",
+  "beschrijving": "ap-organisatie-basis.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Organisatie Basis",
