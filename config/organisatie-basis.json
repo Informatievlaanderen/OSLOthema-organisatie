@@ -11,6 +11,10 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "MijnKolom",
     "site": "site-skeleton/organisatie-basis",
-    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion"
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+		"translation": [
+			{
+			}
+		]
   }
 ]
