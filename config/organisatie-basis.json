@@ -12,15 +12,6 @@
     "contributors-column": "MijnKolom",
     "site": "site-skeleton/organisatie-basis",
     "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
-    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
-		"translation": [
-			{
-				"language": "en",
-				"template": "organisatie-basis-en-ap.j2",
-				"title": "Organisation Basic",
-				"translationjson": "organisatie-basis_en.json",
-				"mergefile": "organisatie-basis_en_merged.jsonld"
-			}
-		]
+    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0"
   }
 ]
