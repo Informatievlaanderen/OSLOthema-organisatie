@@ -11,7 +11,6 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Organisatie",
     "site": "site-skeleton/organisatie-basis",
-    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion"
   }
 ]
