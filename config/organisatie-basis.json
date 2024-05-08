@@ -7,7 +7,7 @@
     "template": "organisatie-basis-ap.j2",
     "title": "Organisatie Basis",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "niet-bepaald",
+    "publication-date": "2024-06-01",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Organisatie",
     "site": "site-skeleton/organisatie-basis",
