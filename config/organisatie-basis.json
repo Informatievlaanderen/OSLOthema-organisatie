@@ -10,7 +10,6 @@
     "publication-date": "niet-bepaald",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Organisatie",
-    "config": "config/config-ap.json",
     "site": "site-skeleton/organisatie-basis",
     "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
