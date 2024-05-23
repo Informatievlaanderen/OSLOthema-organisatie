@@ -3,8 +3,8 @@
   "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/reverseengineeredOnlyForContributions/organisatie-basis.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-  "publicatiedatum": "TBD",
-  "type_toepassing": "TBD",
+  "publicatiedatum": "2018-07-03",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Applicatieprofiel",
   "beschrijving": "ap-organisatie-basis.md",
   "specificatiedocument": [
