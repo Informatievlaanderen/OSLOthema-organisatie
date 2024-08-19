@@ -12,6 +12,8 @@
     "contributors-column": "MijnKolom",
     "site": "site-skeleton/organisatie-basis",
     "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
-    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0"
+    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/applicatieprofiel-organisatie-basis/"
+
   }
 ]
