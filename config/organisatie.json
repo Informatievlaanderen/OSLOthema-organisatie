@@ -13,6 +13,6 @@
     "config": "config/config-voc.json",
     "site": "site-skeleton",
     "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/vocabularium-organisatie/"
   }
 ]
