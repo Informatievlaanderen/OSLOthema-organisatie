@@ -1,2 +1,8 @@
 2020-04-27
    initialiseer specification in toolchain 2.0 formaat
+2025-03-18
+   toolchain 4
+   vocabularium 
+      - verwijder niet relevante packages
+      - add range logo rdfs:Resource
+      - zet status correct
