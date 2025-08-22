@@ -8,3 +8,7 @@
       - zet status correct
 
       - eigenschap heeft verwerkersovereenkomst met te controleren op de juiste status
+
+    organisatie-basis	
+      - connectoren verwijder source 0..* cardinaliteiten 
+      - connectoren met source cardinaliteit wordt source rol op ignore true gezet 
