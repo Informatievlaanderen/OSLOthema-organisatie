@@ -6,3 +6,5 @@
       - verwijder niet relevante packages
       - add range logo rdfs:Resource
       - zet status correct
+
+      - eigenschap heeft verwerkersovereenkomst met te controleren op de juiste status
