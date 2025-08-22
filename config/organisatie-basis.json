@@ -7,11 +7,11 @@
     "template": "organisatie-basis-ap.j2",
     "title": "Organisatie Basis",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2024-06-01",
+    "publication-date": "2025-08-22",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "MijnKolom",
     "site": "site-skeleton/organisatie-basis",
-    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/issues",
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/applicatieprofiel-organisatie-basis/"
 
