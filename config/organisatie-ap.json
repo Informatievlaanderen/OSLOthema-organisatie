@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Organisatie",
+    "type": "ap",
+    "eap": "OSLO-Organisatie.eap",
+    "diagram": "OSLO-Organisatie-Basis",
+    "template": "organisatie-basis-ap.j2",
+    "title": "Organisatie",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2025-09-11",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "MijnKolom",
+    "site": "site-skeleton/organisatie-ap",
+    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/issues",
+    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+    "standaardregisterurl": "https://data.vlaanderen.be/doc/applicatieprofiel/organisatie/"
+
+  }
+]
