@@ -1,6 +1,6 @@
 [
   {
-    "name": "Organisatie",
+    "name": "organisatie",
     "type": "voc",
     "eap": "OSLO-Organisatie.eap",
     "diagram": "OSLO-Organisatie-Basis",
