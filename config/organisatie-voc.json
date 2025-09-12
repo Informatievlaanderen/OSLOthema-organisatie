@@ -3,7 +3,7 @@
     "name": "organisatie",
     "type": "voc",
     "eap": "OSLO-Organisatie.eap",
-    "diagram": "OSLO-Organisatie-Basis",
+    "diagram": "OSLO-Organisatie",
     "template": "organisatie-voc.j2",
     "title": "Organisatie",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
