@@ -10,7 +10,7 @@
     "publication-date": "2025-08-22",
     "orig-publication-date": "03-07-2018",
     "contributors-file": "stakeholders.csv",
-    "contributors-column": "Organisatie",
+    "contributors-column": "Contributor",
     "site": "site-skeleton",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/vocabularium-organisatie/"
