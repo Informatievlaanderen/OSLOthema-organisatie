@@ -1,0 +1,231 @@
+{
+  "@context": [
+    "https://test.data.vlaanderen.be/doc/applicatieprofiel/organisatie-basis/ontwerpstandaard/2025/context/organisatie.jsonld",
+    {
+      "schema": "https://schema.org/",
+      "xsd": "http://www.w3.org/2001/XMLSchema#",
+      "NACE2.1": "http://data.europa.eu/ux2/nace2.1/"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "https://data.vlaanderen.be/id/organisatie/OVO002950",
+      "@type": "PubliekeOrganisatie",
+      "Organisatie.activiteit": {
+        "@id": "NACE2.1:8411"
+      },
+      "Organisatie.alternatieveNaam": [
+        {
+          "@value": "Agentschap Digitaal Vlaanderen",
+          "@language": "nl"
+        }
+      ],
+      "Organisatie.beschrijving": {
+        "@value": "Digitaal Vlaanderen is een agentschap van de Vlaamse overheid. Wij werken aan de digitale transformatie van de overheid. Digitaal Vlaanderen is begin 2021 ontstaan door de fusie van Informatie Vlaanderen met de ICT-afdeling van het Facilitair Bedrijf, en telt in totaal zo'n 740 medewerkers.",
+        "@language": "nl"
+      },
+      "Organisatie.classificatie": [
+        {
+          "@id": "NACE2.1:P"
+        },
+        {
+          "@id": "NACE2.1:84"
+        },
+        {
+          "@id": "NACE2.1:841"
+        },
+        {
+          "@id": "NACE2.1:8411"
+        }
+      ],
+      "Organisatie.contactinfo": [
+        {
+          "@type": "Contactpunt",
+          "Contactpunt.adres": {
+            "@type": "Adresvoorstelling",
+            "Adresvoorstelling.straatnaam": {
+              "@value": "Koning Albert II laan",
+              "@language": "nl"
+            },
+            "Adresvoorstelling.huisnummer": "15",
+            "Adresvoorstelling.postcode": "1210",
+            "Adresvoorstelling.gemeentenaam": {
+              "@value": "Brussel",
+              "@language": "nl"
+            },
+            "Adresvoorstelling.busnummer": "224",
+            "Adresvoorstelling.land": {
+              "@value": "België",
+              "@language": "nl"
+            },
+            "Adresvoorstelling.volledigAdres": "Koning Albert II laan 15 bus 224, 1210 Brussel, België"
+          },
+          "Contactpunt.email": "digitaal.vlaanderen@vlaanderen.be",
+          "Contactpunt.telefoon": "+32 9 276 15 00",
+          "Contactpunt.website": {
+            "@id": "https://www.vlaanderen.be/digitaal-vlaanderen"
+          }
+        }
+      ],
+      "Organisatie.doel": {
+        "@value": "Dé digitale business partner voor overheden.",
+        "@language": "nl"
+      },
+      "Organisatie.homepage": {
+        "@id": "https://www.vlaanderen.be/digitaal-vlaanderen"
+      },
+      "Organisatie.logo": {
+        "@type": "Mediaobject",
+        "schema:contentUrl": {
+          "@id": "https://avatars.githubusercontent.com/u/15910637"
+        },
+        "schema:name": {
+          "@value": "Logo Digitaal Vlaanderen",
+          "@language": "nl"
+        }
+      },
+      "Organisatie.status": [
+        {
+          "@type": "OrganisatieStatus"
+        }
+      ],
+      "Organisatie.type": [
+        {
+          "@type": "OrganisatieType"
+        }
+      ],
+      "Organisatie.voorkeursnaam": {
+        "@value": "Digitaal Vlaanderen",
+        "@language": "nl"
+      },
+      "PubliekeOrganisatie.werkingsgebied": [
+        {
+          "@id": "http://publications.europa.eu/resource/authority/atu/BEL_CGG_VLA"
+        }
+      ],
+      "Organisatie.heeftGeregistreerdeVestiging": [
+        {
+          "@id": "_:vestigingPostadres"
+        }
+      ],
+      "Organisatie.heeftPrimaireVestiging": [
+        {
+          "@id": "_:vestigingBrussel"
+        }
+      ],
+      "Organisatie.heeftVestiging": [
+        {
+          "@id": "_:vestigingBrussel"
+        },
+        {
+          "@id": "_:vestigingGent"
+        },
+        {
+          "@id": "_:vestigingPostadres"
+        }
+      ],
+      "Organisatie.isVeranderdDoor": { "@id": "_:Fusie" },
+      "Organisatie.isHetResultaatVan": { "@id": "_:Fusie" }
+    },
+    {
+      "@id": "_:vestigingPostadres",
+      "@type": "Vestiging",
+      "Vestiging.vestigingsadres": {
+        "@type": "Contactpunt",
+        "Contactpunt.adres": {
+          "@type": "Adresvoorstelling",
+          "Adresvoorstelling.straatnaam": {
+            "@value": "Koning Albert II laan",
+            "@language": "nl"
+          },
+          "Adresvoorstelling.huisnummer": "15",
+          "Adresvoorstelling.postcode": "1210",
+          "Adresvoorstelling.gemeentenaam": {
+            "@value": "Brussel",
+            "@language": "nl"
+          },
+          "Adresvoorstelling.busnummer": "224",
+          "Adresvoorstelling.land": {
+            "@value": "België",
+            "@language": "nl"
+          },
+          "Adresvoorstelling.volledigAdres": "Koning Albert II laan 15 bus 224, 1210 Brussel, België"
+        }
+      }
+    },
+    {
+      "@id": "_:vestigingBrussel",
+      "@type": "Vestiging",
+      "Vestiging.vestigingsadres": {
+        "@type": "Contactpunt",
+        "Contactpunt.adres": {
+          "@type": "Adresvoorstelling",
+          "Adresvoorstelling.straatnaam": {
+            "@value": "Havenlaan ",
+            "@language": "nl"
+          },
+          "Adresvoorstelling.huisnummer": "88",
+          "Adresvoorstelling.postcode": "1000",
+          "Adresvoorstelling.gemeentenaam": {
+            "@value": "Brussel",
+            "@language": "nl"
+          },
+          "Adresvoorstelling.land": {
+            "@value": "België",
+            "@language": "nl"
+          },
+          "Adresvoorstelling.volledigAdres": "Havenlaan 88, 1000 Brussel, België"
+        }
+      }
+    },
+    {
+      "@id": "_:vestigingGent",
+      "@type": "Vestiging",
+      "Vestiging.vestigingsadres": {
+        "@type": "Contactpunt",
+        "Contactpunt.adres": {
+          "@type": "Adresvoorstelling",
+          "Adresvoorstelling.straatnaam": {
+            "@value": "Koningin Maria Hendrikaplein",
+            "@language": "nl"
+          },
+          "Adresvoorstelling.huisnummer": "70",
+          "Adresvoorstelling.postcode": "9000",
+          "Adresvoorstelling.gemeentenaam": {
+            "@value": "Gent",
+            "@language": "nl"
+          },
+          "Adresvoorstelling.land": {
+            "@value": "België",
+            "@language": "nl"
+          },
+          "Adresvoorstelling.volledigAdres": "Koningin Maria Hendrikaplein 70, 9000 Gent, België"
+        }
+      }
+    },
+    {
+      "@id": "https://data.vlaanderen.be/id/organisatie/OVO001836",
+      "@type": "PubliekeOrganisatie",
+      "Organisatie.voorkeursnaam": { "@value": "Agentschap voor Geografische Informatie Vlaanderen", "@language": "nl" },
+      "Organisatie.isVeranderdDoor": { "@id": "_:Fusie" }
+    },
+    {
+      "@id": "_:AfdelingICTFacilitairBedrijf",
+      "@type": "OrganisatieEenheid",
+      "Organisatie.voorkeursnaam": { "@value": "Afdeling ICT Facilitair Bedrijf", "@language": "nl" },
+      "Organisatie.isVeranderdDoor": { "@id": "_:FusieDigitaalVlaanderen" }
+    },
+    {
+      "@id": "_:FusieDigitaalVlaanderen",
+      "@type": "Fusie",
+      "Veranderingsgebeurtenis.datum": { "@value": "2015-12-31T00:00:000Z", "@type": "xsd:dateTime" },
+      "Veranderingsgebeurtenis.oorspronkelijkeOrganisatie": [
+        { "@id": "https://data.vlaanderen.be/id/organisatie/OVO001836" },
+        { "@id": "_:AfdelingICTFacilitairBedrijf" }
+      ],
+      "Veranderingsgebeurtenis.resulterendeOrganisatie": [
+        { "@id": "https://data.vlaanderen.be/id/organisatie/OVO002950" }
+      ]
+    }
+  ]
+}
