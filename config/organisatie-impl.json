@@ -5,7 +5,7 @@
     "eap": "OSLO-Organisatie-IMPL.eap",
     "diagram": "OSLO-Organisatie-IMPL",
     "template": "organisatie-basis-ap.j2",
-    "title": "Organisatie",
+    "title": "VKBO-Onderneming Implementatiemodel",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "2026-04-09",
     "contributors-file": "stakeholders.csv",
