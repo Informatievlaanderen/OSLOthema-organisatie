@@ -7,7 +7,7 @@
     "template": "organisatie-basis-ap.j2",
     "title": "Organisatie",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2026-01-22",
+    "publication-date": "2026-04-09",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Contributor",
     "site": "site-skeleton/VKBO",
