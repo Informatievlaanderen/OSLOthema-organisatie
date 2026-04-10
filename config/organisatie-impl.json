@@ -7,7 +7,7 @@
     "template": "organisatie-basis-ap.j2",
     "title": "VKBO-Onderneming Implementatiemodel",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2026-04-09",
+    "publication-date": "2026-04-10",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Contributor",
     "site": "site-skeleton/VKBO",
