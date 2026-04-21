@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.4] - 2026-04-21
+
+### Added
+- Ontbrekende klasse Vestiging toegevoegd.
+
+### Fixed
+- URI voor prov:time.
+- Typos in beschrijvingen.
+
 ## [0.0.3] - 2026-04-20
 
 ### Fixed
