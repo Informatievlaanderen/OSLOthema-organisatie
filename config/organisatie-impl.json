@@ -5,15 +5,15 @@
     "eap": "OSLO-Organisatie-IMPL.eap",
     "diagram": "OSLO-Organisatie-IMPL",
     "template": "organisatie-vkbo-impl.j2",
-    "title": "VKBO-Onderneming Implementatiemodel",
-    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+    "title": "Implementatiemodel VKBO-Onderneming",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
     "publication-date": "2026-04-21",
     "contributors-file": "stakeholders-VKBO.csv",
     "contributors-column": "Contributor",
     "site": "site-skeleton/VKBO",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/issues",
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
-    "standaardregisterurl": "https://data.vlaanderen.be/doc/applicatieprofiel/organisatie/"
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/implementatiemodel-"
 
   }
 ]
