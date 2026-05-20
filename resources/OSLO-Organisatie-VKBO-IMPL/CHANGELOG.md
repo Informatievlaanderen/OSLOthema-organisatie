@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.5] - 2026-05-20
+
+### Added
+- Ondersteuning voor ambtsbehalve doorhaling van KBO.
+
+### Fixed
+- Geografische positie van een Adres is nu correct en overeenkomstig met OSLO-Adres.
+- Typos voor het weerbericht.
+
 ## [0.0.4] - 2026-04-21
 
 ### Added
