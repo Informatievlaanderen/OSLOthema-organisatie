@@ -4,7 +4,7 @@
     "type": "voc",
     "eap": "OSLO-Organisatie-VKBO-IMPL.eap",
     "diagram": "OSLO-Organisatie-IMPL",
-    "template": "voc.j2",
+    "template": "organisatie-voc.j2",
     "title": "Vocabularium VKBO-Onderneming",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
     "publication-date": "2026-05-21",
