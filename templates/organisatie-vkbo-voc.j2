@@ -1,0 +1,37 @@
+{% extends "voc2.j2" %}
+
+{% block metainfo %}
+<div class="head" role="metainfo" id="metainfo">
+     <dl>
+        <dt>Brondata</dt>
+        <dd>
+           <a href="https://github.com/Informatievlaanderen/OSLOthema-organisatie/tags/{{ data.metadata.branchtag }}">https://github.com/Informatievlaanderen/OSLOthema-organisatie/tags/{{ data.metadata.branchtag }}</a>
+        </dd>
+        <dt>Changelog</dt>
+        <dd>
+           <a href="https://implementatie.data.vlaanderen.be/doc/implementatiemodel/vkbo/organisatie/{{ data.metadata.branchtag }}/resources/artefacts/CHANGELOG.md">https://implementatie.data.vlaanderen.be/doc/implementatiemodel/vkbo/organisatie/{{ data.metadata.branchtag }}/resources/artefacts/CHANGELOG.md</a>
+        </dd>
+        <dt>Opmerkingen en feedback</dt>
+        <dd>
+           <a href="{{ data.metadata.feedbackurl }}">{{ data.metadata.feedbackurl }}</a>
+        </dd>
+        <dd>
+           <a href="{{ data.metadata.standaardregisterurl }}">{{ data.metadata.standaardregisterurl }}</a>
+        </dd>
+        {% if data.metadata.dependencies %}
+           <dt>Afhankelijkheden</dt>
+           <dd>
+              {% for dep in metadata.dependencies %}
+                 <a href="{{ dep.packageurl }}">{{ dep.packagelabel }}</a>
+              {% endfor %}
+           </dd>
+        {% endif %}
+     </dl>
+</div>
+{% endblock %}
+
+{% block summary %}
+<p>
+Het VKBO-Onderneming Vocabularium is een uitbreiding op het <a href="https://data.vlaanderen.be/ns/vocabularium/organisatie">Vocabularium OSLO Organisatie</a> om het <a href="https://www.vlaanderen.be/datavindplaats/catalogus/vkbo-ondernemingen-en-vestigingseenheden">VKBO</a> te omsluiten volgens deze OSLO datastandaard. Het VKBO is een verijkte kopie van de Kruispuntbank van Ondernemingen (KBO) met extra gegevens uit relevante bronnen.
+</p>
+{% endblock %}
