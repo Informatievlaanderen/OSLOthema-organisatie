@@ -1,6 +1,6 @@
 [
   {
-    "name": "organisatie",
+    "name": "onderneming",
     "type": "impl",
     "eap": "OSLO-Organisatie-VKBO-IMPL.eap",
     "diagram": "OSLO-Organisatie-IMPL",
