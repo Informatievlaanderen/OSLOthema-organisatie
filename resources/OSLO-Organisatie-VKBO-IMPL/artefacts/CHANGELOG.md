@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.6] - 2026-05-21
+
+### Added
+- KBO codelijsten volgens het VKBO implementatiemodel.
+- Bundler die alle assets bundelt per release.
+- Publiceer vocabularium.
+
+### Fixed
+- Sync overview figure.
+
 ## [0.0.5] - 2026-05-20
 
 ### Added

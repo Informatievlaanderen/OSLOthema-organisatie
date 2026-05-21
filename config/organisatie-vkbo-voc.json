@@ -1,11 +1,11 @@
 [
   {
     "name": "organisatie",
-    "type": "impl",
+    "type": "voc",
     "eap": "OSLO-Organisatie-VKBO-IMPL.eap",
     "diagram": "OSLO-Organisatie-IMPL",
-    "template": "organisatie-vkbo-impl.j2",
-    "title": "Implementatiemodel VKBO-Onderneming",
+    "template": "voc.j2",
+    "title": "Vocabularium VKBO-Onderneming",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
     "publication-date": "2026-05-21",
     "contributors-file": "stakeholders-VKBO.csv",
