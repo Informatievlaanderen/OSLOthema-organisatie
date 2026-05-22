@@ -7,7 +7,7 @@
     "template": "organisatie-vkbo-impl.j2",
     "title": "Implementatiemodel VKBO-Onderneming",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
-    "publication-date": "2026-05-21",
+    "publication-date": "2026-05-22",
     "contributors-file": "stakeholders-VKBO.csv",
     "contributors-column": "Contributor",
     "site": "site-skeleton/OSLO-Organisatie-VKBO-IMPL",
