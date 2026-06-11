@@ -1,28 +1,31 @@
-<https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst soort rechtspersoonlijkheid (v1)"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Soorten rechtpersoonlijkheidsvormen van een onderneming."@nl;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype>;
-    <http://www.w3.org/2004/02/skos/core#notation> "Rechtspersoonlijkheidtype-v1".
-<https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst soort rechtspersoonlijkheid"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Soorten rechtpersoonlijkheidsvormen van een onderneming."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "Rechtspersoonlijkheidtype".
-<https://data.vlaanderen.be/id/concept/Rechtspersoonlijkheidtype/v1/0> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onbekend"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Het type entiteit is onbekend bij de Kruispuntbank van Ondernemingen (KBO)."@nl;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
-    <http://www.w3.org/2004/02/skos/core#notation> "0".
-<https://data.vlaanderen.be/id/concept/Rechtspersoonlijkheidtype/v1/1> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Natuurlijk Persoon"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Het type entiteit is een natuurlijk persoon."@nl;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
-    <http://www.w3.org/2004/02/skos/core#notation> "1".
-<https://data.vlaanderen.be/id/concept/Rechtspersoonlijkheidtype/v1/2> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rechtspersoon"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Het type entiteit is een rechtspersoon zoals een vennootschap, VZW, NV, BV, of organisaties zonder rechtspersoon."@nl;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
-    <http://www.w3.org/2004/02/skos/core#notation> "2".
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+
+<https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1> a skos:ConceptScheme;
+    skos:prefLabel "Codelijst soort rechtspersoonlijkheid (v1)"@nl;
+    skos:definition "Soorten rechtpersoonlijkheidsvormen van een onderneming."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype>;
+    skos:notation "Rechtspersoonlijkheidtype-v1".
+<https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype> a skos:ConceptScheme;
+    skos:prefLabel "Codelijst soort rechtspersoonlijkheid"@nl;
+    skos:definition "Soorten rechtpersoonlijkheidsvormen van een onderneming."@nl;
+    skos:notation "Rechtspersoonlijkheidtype".
+<https://data.vlaanderen.be/id/concept/Rechtspersoonlijkheidtype/v1/0> a skos:Concept;
+    skos:prefLabel "Onbekend"@nl;
+    skos:definition "Het type entiteit is onbekend bij de Kruispuntbank van Ondernemingen (KBO)."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
+    skos:notation "0".
+<https://data.vlaanderen.be/id/concept/Rechtspersoonlijkheidtype/v1/1> a skos:Concept;
+    skos:prefLabel "Natuurlijk Persoon"@nl;
+    skos:definition "Het type entiteit is een natuurlijk persoon."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
+    skos:notation "1".
+<https://data.vlaanderen.be/id/concept/Rechtspersoonlijkheidtype/v1/2> a skos:Concept;
+    skos:prefLabel "Rechtspersoon"@nl;
+    skos:definition "Het type entiteit is een rechtspersoon zoals een vennootschap, VZW, NV, BV, of organisaties zonder rechtspersoon."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtspersoonlijkheidtype/v1>;
+    skos:notation "2".

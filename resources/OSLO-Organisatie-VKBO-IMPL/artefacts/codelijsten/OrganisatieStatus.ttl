@@ -1,46 +1,49 @@
-<https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst Organisatie statussen (v1)"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van mogelijke statussen voor een onderneming."@nl;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus>;
-    <http://www.w3.org/2004/02/skos/core#notation> "OrganisatieStatus-v1".
-<https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst Organisatie statussen"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van mogelijke statussen voor een onderneming."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "OrganisatieStatus".
-<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/ST> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stopgezet"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "De onderneming is stopgezet."@nl;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#notation> "ST".
-<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/JU> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Juridische creatie"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "De onderneming is juridisch gecreëerd."@nl;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#notation> "JU".
-<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/BK> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bekendgemaakt"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "De onderneming is bekend gemaakt."@nl;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#notation> "BK".
-<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/AN> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geannuleerd"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "De onderneming is geannuleerd."@nl;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#notation> "AN".
-<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/AF> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afgesloten"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "De onderneming is afgesloten."@nl;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#notation> "AF".
-<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/AC> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Actief"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "De onderneming is actief."@nl;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
-    <http://www.w3.org/2004/02/skos/core#notation> "AC".
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+
+<https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1> a skos:ConceptScheme;
+    skos:prefLabel "Codelijst Organisatie statussen (v1)"@nl;
+    skos:definition "Codelijst van mogelijke statussen voor een onderneming."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus>;
+    skos:notation "OrganisatieStatus-v1".
+<https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus> a skos:ConceptScheme;
+    skos:prefLabel "Codelijst Organisatie statussen"@nl;
+    skos:definition "Codelijst van mogelijke statussen voor een onderneming."@nl;
+    skos:notation "OrganisatieStatus".
+<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/ST> a skos:Concept;
+    skos:prefLabel "Stopgezet"@nl;
+    skos:definition "De onderneming is stopgezet."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:notation "ST".
+<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/JU> a skos:Concept;
+    skos:prefLabel "Juridische creatie"@nl;
+    skos:definition "De onderneming is juridisch gecreëerd."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:notation "JU".
+<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/BK> a skos:Concept;
+    skos:prefLabel "Bekendgemaakt"@nl;
+    skos:definition "De onderneming is bekend gemaakt."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:notation "BK".
+<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/AN> a skos:Concept;
+    skos:prefLabel "Geannuleerd"@nl;
+    skos:definition "De onderneming is geannuleerd."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:notation "AN".
+<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/AF> a skos:Concept;
+    skos:prefLabel "Afgesloten"@nl;
+    skos:definition "De onderneming is afgesloten."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:notation "AF".
+<https://data.vlaanderen.be/id/concept/OrganisatieStatus/v1/AC> a skos:Concept;
+    skos:prefLabel "Actief"@nl;
+    skos:definition "De onderneming is actief."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/OrganisatieStatus/v1>;
+    skos:notation "AC".
