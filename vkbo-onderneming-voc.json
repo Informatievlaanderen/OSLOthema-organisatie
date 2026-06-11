@@ -1,9 +1,9 @@
 {
-  "title": "Implementatiemodel VKBO - Onderneming",
-  "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+  "title": "Vocabularium VKBO - Onderneming",
+  "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
   "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
   "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
-  "descriptionFileName": "impl-vkbo-onderneming.md",
+  "descriptionFileName": "voc-vkbo-onderneming.md",
   "responsibleOrganisation": [
     {
       "name": "Agentschap Digitaal Vlaanderen",
@@ -13,8 +13,8 @@
   "publicationDate": "2026-06-11",
   "specificationDocuments": [
     {
-      "name": "Implementatiemodel VKBO - Onderneming",
-      "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/vkbo/onderneming"
+      "name": "Vocabularium VKBO - Onderneming",
+      "resourceReference": "https://implementatie.data.vlaanderen.be/ns/vkbo/onderneming"
     }
   ],
   "documentation": [],
