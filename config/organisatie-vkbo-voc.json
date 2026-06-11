@@ -7,13 +7,13 @@
     "template": "organisatie-voc.j2",
     "title": "Vocabularium VKBO-Onderneming",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
-    "publication-date": "2026-05-22",
+    "publication-date": "2026-06-11",
     "contributors-file": "stakeholders-VKBO.csv",
     "contributors-column": "Contributor",
     "site": "site-skeleton/OSLO-Organisatie-VKBO-IMPL",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/issues",
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/implementatiemodel-"
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/implementatiemodel-vkbo-onderneming"
 
   }
 ]
