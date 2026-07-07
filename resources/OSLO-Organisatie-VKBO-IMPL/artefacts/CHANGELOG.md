@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2026-06-11
+## [1.0.0] - 2026-07-07
 
 Eerste stabiele release van het implementatiemodel VKBO Onderneming.
 
@@ -19,7 +19,7 @@ Eerste stabiele release van het implementatiemodel VKBO Onderneming.
 - Doorhaling is generieker opgelost waardoor alle soorten activiteiten de onderneming en vestiging kunnen beïnvloeden.
 - Codelijsten zijn nu allemaal in het Nederlands.
 - Herwerkte samenvattingen voor het implementatiemodel en vocabularium.
-- Contactinfo gebruikt nu W3C VCard in plaats van Schema.org.
+- Contactinfo telefoon voorziet nu de mogelijkheid het soort nummer aan te geven volgens W3C VCard TelephoneType.
 
 ### Fixed
 - Typo in registratie definitie.
