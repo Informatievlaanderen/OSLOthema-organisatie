@@ -741,3 +741,733 @@
     skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype/v1>;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype/v1>;
     skos:notation "999".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/001> a skos:Concept;
+    skos:prefLabel "Europese Coöperatieve Vennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "001".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/002> a skos:Concept;
+    skos:prefLabel "Organisme voor de Financiering van Pensioenen"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "002".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/003> a skos:Concept;
+    skos:prefLabel "BTW-eenheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "003".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/006> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met onbeperkte aansprakelijkheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "006".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/007> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met onbeperkte aansprakelijkheid, bij wijze van deelneming"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "007".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/008> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met beperkte aansprakelijkheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "008".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/009> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met beperkte aansprakelijkheid, bij wijze van deelneming"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "009".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/010> a skos:Concept;
+    skos:prefLabel "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "010".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/011> a skos:Concept;
+    skos:prefLabel "Vennootschap onder firma"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "011".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/012> a skos:Concept;
+    skos:prefLabel "Gewone commanditaire vennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "012".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/013> a skos:Concept;
+    skos:prefLabel "Commanditaire vennootschap op aandelen"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "013".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/014> a skos:Concept;
+    skos:prefLabel "Naamloze vennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "014".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/015> a skos:Concept;
+    skos:prefLabel "Besloten vennootschap met beperkte aansprakelijkheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "015".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/016> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap (oud statuut)"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "016".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/017> a skos:Concept;
+    skos:prefLabel "Vereniging zonder winstoogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "017".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/018> a skos:Concept;
+    skos:prefLabel "Instelling van openbaar nut"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "018".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/019> a skos:Concept;
+    skos:prefLabel "Ziekenfonds / Maatschappij van onderlinge bijstand / Landsbond van ziekenfondsen"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "019".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/020> a skos:Concept;
+    skos:prefLabel "Beroepsvereniging"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "020".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/021> a skos:Concept;
+    skos:prefLabel "Onderlinge verzekeringsvereniging / Gemeenschappelijke verzekeringskas van privaat recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "021".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/022> a skos:Concept;
+    skos:prefLabel "Internationale wetenschappelijke organisatie van Belgisch recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "022".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/023> a skos:Concept;
+    skos:prefLabel "Buitenlandse privaatrechtelijke vereniging met vestiging in België"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "023".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/025> a skos:Concept;
+    skos:prefLabel "Landbouwvennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "025".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/026> a skos:Concept;
+    skos:prefLabel "Private stichting"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "026".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/027> a skos:Concept;
+    skos:prefLabel "Europese vennootschap (Societas Europaea)"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "027".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/028> a skos:Concept;
+    skos:prefLabel "Instelling zonder winstoogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "028".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/029> a skos:Concept;
+    skos:prefLabel "Stichting van openbaar nut"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "029".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/030> a skos:Concept;
+    skos:prefLabel "Buitenlandse entiteit"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "030".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/040> a skos:Concept;
+    skos:prefLabel "Kongolese vennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "040".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/051> a skos:Concept;
+    skos:prefLabel "Andere privaatrechtelijke vorm met rechtspersoonlijkheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "051".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/060> a skos:Concept;
+    skos:prefLabel "Economisch samenwerkingsverband"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "060".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/065> a skos:Concept;
+    skos:prefLabel "Europees economisch samenwerkingsverband"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "065".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/070> a skos:Concept;
+    skos:prefLabel "Vereniging van mede-eigenaars"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "070".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/106> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met onbeperkte aansprakelijkheid van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "106".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/107> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met onbeperkte aansprakelijkheid, bij wijze van deelneming van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "107".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/108> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met beperkte aansprakelijkheid van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "108".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/109> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met beperkte aansprakelijkheid, bij wijze van deelneming, van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "109".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/110> a skos:Concept;
+    skos:prefLabel "Rijk, Provincie, Gewest, Gemeenschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "110".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/114> a skos:Concept;
+    skos:prefLabel "Naamloze vennootschap van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "114".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/116> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap van publiek recht (oud statuut)"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "116".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/117> a skos:Concept;
+    skos:prefLabel "Vereniging zonder winstoogmerk van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "117".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/121> a skos:Concept;
+    skos:prefLabel "Onderlinge verzekeringsvereniging van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "121".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/123> a skos:Concept;
+    skos:prefLabel "Beroepsvereniging / Orde"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "123".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/124> a skos:Concept;
+    skos:prefLabel "Openbare instelling"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "124".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/125> a skos:Concept;
+    skos:prefLabel "Internationale vereniging zonder winstoogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "125".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/126> a skos:Concept;
+    skos:prefLabel "Openbaar centrum voor maatschappelijk welzijn"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "126".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/127> a skos:Concept;
+    skos:prefLabel "Berg van Barmhartigheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "127".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/128> a skos:Concept;
+    skos:prefLabel "Eredienst"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "128".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/129> a skos:Concept;
+    skos:prefLabel "Polder / Watering"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "129".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/151> a skos:Concept;
+    skos:prefLabel "Andere rechtsvorm"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "151".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/155> a skos:Concept;
+    skos:prefLabel "Lokale politiezone"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "155".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/160> a skos:Concept;
+    skos:prefLabel "Buitenlandse of internationale publieke organisatie"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "160".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/200> a skos:Concept;
+    skos:prefLabel "Vennootschap in oprichting"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "200".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/206> a skos:Concept;
+    skos:prefLabel "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met onbeperkte aansprakelijkheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "206".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/208> a skos:Concept;
+    skos:prefLabel "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met beperkte aansprakelijkheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "208".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/211> a skos:Concept;
+    skos:prefLabel "Burgerlijke vennootschap onder vorm van vennootschap onder firma"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "211".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/212> a skos:Concept;
+    skos:prefLabel "Burgerlijke vennootschap onder vorm van gewone commanditaire vennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "212".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/213> a skos:Concept;
+    skos:prefLabel "Burgerlijke vennootschap onder vorm van commanditaire vennootschap op aandelen"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "213".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/214> a skos:Concept;
+    skos:prefLabel "Burgerlijke vennootschap onder vorm van naamloze vennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "214".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/215> a skos:Concept;
+    skos:prefLabel "Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aansprakelijkheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "215".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/217> a skos:Concept;
+    skos:prefLabel "Europese politieke partij"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "217".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/218> a skos:Concept;
+    skos:prefLabel "Europese politieke stichting"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "218".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/225> a skos:Concept;
+    skos:prefLabel "Burgerlijke Vennootschap onder vorm van Landbouwvennootschap (BV LV)"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "225".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/230> a skos:Concept;
+    skos:prefLabel "Buitenlandse entiteit met onroerend goed in België (met rechtspersoonlijkheid)"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "230".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/235> a skos:Concept;
+    skos:prefLabel "Buitenlandse entiteit zonder Belgische vestiging met vertegenwoordiger voor BTW"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "235".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/260> a skos:Concept;
+    skos:prefLabel "Economisch samenwerkingsverband zonder zetel met vestiging in België"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "260".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/265> a skos:Concept;
+    skos:prefLabel "Europees economisch samenwerkingsverband zonder zetel met vestiging in België (EESV)"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "265".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/301> a skos:Concept;
+    skos:prefLabel "Federale overheidsdienst"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "301".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/302> a skos:Concept;
+    skos:prefLabel "Programmatorische federale overheidsdienst"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "302".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/303> a skos:Concept;
+    skos:prefLabel "Andere federale dienst"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "303".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/310> a skos:Concept;
+    skos:prefLabel "Overheid van het Vlaamse Gewest en van de Vlaamse Gemeenschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "310".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/320> a skos:Concept;
+    skos:prefLabel "Overheid van het Waalse Gewest"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "320".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/325> a skos:Concept;
+    skos:prefLabel "Internationale vereniging zonder winstoogmerk van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "325".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/330> a skos:Concept;
+    skos:prefLabel "Overheid van het Brusselse Hoofdstedelijk Gewest"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "330".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/340> a skos:Concept;
+    skos:prefLabel "Overheid van de Franse Gemeenschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "340".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/350> a skos:Concept;
+    skos:prefLabel "Overheid van de Duitstalige Gemeenschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "350".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/370> a skos:Concept;
+    skos:prefLabel "Ministerie van Economische Zaken"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "370".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/371> a skos:Concept;
+    skos:prefLabel "Ministerie van Buitenlandse Zaken, Buitenlandse handel en Ontwikkelingssamenwerking"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "371".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/372> a skos:Concept;
+    skos:prefLabel "Ministerie van Landbouw"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "372".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/373> a skos:Concept;
+    skos:prefLabel "Ministerie van Middenstand"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "373".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/374> a skos:Concept;
+    skos:prefLabel "Ministerie van Verkeerswerken"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "374".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/375> a skos:Concept;
+    skos:prefLabel "Ministerie van Defensie"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "375".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/376> a skos:Concept;
+    skos:prefLabel "Ministerie van Nationale Opvoeding en Cultuur"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "376".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/377> a skos:Concept;
+    skos:prefLabel "Ministerie van Tewerkstelling en Arbeid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "377".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/378> a skos:Concept;
+    skos:prefLabel "Ministerie van Financiën"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "378".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/379> a skos:Concept;
+    skos:prefLabel "Ministerie van Binnenlandse Zaken"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "379".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/380> a skos:Concept;
+    skos:prefLabel "Ministerie van Justitie"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "380".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/381> a skos:Concept;
+    skos:prefLabel "Ministerie van Sociale Voorzorg"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "381".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/382> a skos:Concept;
+    skos:prefLabel "Ministerie van Volksgezondheid en Gezin"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "382".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/383> a skos:Concept;
+    skos:prefLabel "Diensten van de Eerste Minister"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "383".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/384> a skos:Concept;
+    skos:prefLabel "Ministerie van Verkeer en Infrastructuur"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "384".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/385> a skos:Concept;
+    skos:prefLabel "Ministerie van de Vlaamse Gemeenschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "385".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/386> a skos:Concept;
+    skos:prefLabel "Ministerie van de Franse Gemeenschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "386".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/387> a skos:Concept;
+    skos:prefLabel "Ministerie van het Brusselse Hoofdstedelijk Gewest"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "387".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/388> a skos:Concept;
+    skos:prefLabel "Ministerie van het Waalse Gewest"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "388".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/389> a skos:Concept;
+    skos:prefLabel "Ministerie van de Duitstalige Gemeenschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "389".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/390> a skos:Concept;
+    skos:prefLabel "Ministerie van Ambtenarenzaken"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "390".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/391> a skos:Concept;
+    skos:prefLabel "Ministerie van Middenstand en Landbouw"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "391".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/392> a skos:Concept;
+    skos:prefLabel "Ministerie van Sociale Zaken, Volksgezondheid en Leefmilieu"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "392".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/393> a skos:Concept;
+    skos:prefLabel "Andere"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "393".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/400> a skos:Concept;
+    skos:prefLabel "Provinciale overheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "400".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/401> a skos:Concept;
+    skos:prefLabel "Organisme ingeschreven door de RSZ PPO"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "401".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/411> a skos:Concept;
+    skos:prefLabel "Stad / gemeente"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "411".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/412> a skos:Concept;
+    skos:prefLabel "Openbaar centrum voor maatschappelijk welzijn"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "412".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/413> a skos:Concept;
+    skos:prefLabel "Lokale politiezone"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "413".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/414> a skos:Concept;
+    skos:prefLabel "Intercommunale"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "414".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/415> a skos:Concept;
+    skos:prefLabel "Projectvereniging"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "415".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/416> a skos:Concept;
+    skos:prefLabel "Dienstverlenende vereniging (Vlaams Gewest)"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "416".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/417> a skos:Concept;
+    skos:prefLabel "Opdrachthoudende vereniging (Vlaams Gewest)"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "417".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/418> a skos:Concept;
+    skos:prefLabel "Autonoom gemeentebedrijf"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "418".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/419> a skos:Concept;
+    skos:prefLabel "Autonoom provinciebedrijf"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "419".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/420> a skos:Concept;
+    skos:prefLabel "Vereniging van OCMW's"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "420".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/421> a skos:Concept;
+    skos:prefLabel "Prezone"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "421".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/422> a skos:Concept;
+    skos:prefLabel "Hulpverleningszone"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "422".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/451> a skos:Concept;
+    skos:prefLabel "Organismen ingeschreven voorde R.V.P."@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "451".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/452> a skos:Concept;
+    skos:prefLabel "Organisme ingeschreven voor de Administratie van de Pensioenen"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "452".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/453> a skos:Concept;
+    skos:prefLabel "Buitenlandse onderneming zonder Belgische vestiging genoteerd op de beurs"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "453".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/454> a skos:Concept;
+    skos:prefLabel "Buitenlandse entiteit met onroerend goed in België (zonder rechtspersoonlijkheid)"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "454".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/506> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met onbeperkte aansprakelijkheid met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "506".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/508> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "508".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/510> a skos:Concept;
+    skos:prefLabel "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "510".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/511> a skos:Concept;
+    skos:prefLabel "Vennootschap onder firma met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "511".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/512> a skos:Concept;
+    skos:prefLabel "Gewone commanditaire vennootschap met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "512".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/513> a skos:Concept;
+    skos:prefLabel "Commanditaire vennootschap op aandelen met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "513".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/514> a skos:Concept;
+    skos:prefLabel "Naamloze vennootschap met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "514".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/515> a skos:Concept;
+    skos:prefLabel "Besloten vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "515".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/560> a skos:Concept;
+    skos:prefLabel "Economisch samenwerkingsverband met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "560".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/606> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met onbeperkte aansprakelijkheid met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "606".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/608> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "608".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/610> a skos:Concept;
+    skos:prefLabel "Besloten Vennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "610".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/612> a skos:Concept;
+    skos:prefLabel "Commanditaire vennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "612".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/614> a skos:Concept;
+    skos:prefLabel "Naamloze vennootschap met een sociaal oogmerk"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "614".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/616> a skos:Concept;
+    skos:prefLabel "Besloten Vennootschap van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "616".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/617> a skos:Concept;
+    skos:prefLabel "Commanditaire vennootschap van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "617".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/651> a skos:Concept;
+    skos:prefLabel "Andere vorm met een sociaal oogmerk van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "651".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/701> a skos:Concept;
+    skos:prefLabel "Onrechtmatige handelsvennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "701".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/702> a skos:Concept;
+    skos:prefLabel "Maatschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "702".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/703> a skos:Concept;
+    skos:prefLabel "Tijdelijke handelsvennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "703".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/704> a skos:Concept;
+    skos:prefLabel "Stille handelsvennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "704".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/706> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "706".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/716> a skos:Concept;
+    skos:prefLabel "Coöperatieve vennootschap van publiek recht"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "716".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/721> a skos:Concept;
+    skos:prefLabel "Vennootschap of vereniging zonder rechtspersoonlijkheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "721".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/722> a skos:Concept;
+    skos:prefLabel "Tijdelijke vereniging"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "722".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/723> a skos:Concept;
+    skos:prefLabel "Kostendelende vereniging"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "723".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/724> a skos:Concept;
+    skos:prefLabel "Vakbond"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "724".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/790> a skos:Concept;
+    skos:prefLabel "Diversen zonder rechtspersoonlijkheid"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "790".
+<https://data.vlaanderen.be/id/concept/Rechtsvormtype/999> a skos:Concept;
+    skos:prefLabel "Ongekende rechtsvorm RSZ"@nl;
+    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Rechtsvormtype>;
+    skos:notation "999".
